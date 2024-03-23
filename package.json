@@ -1,6 +1,6 @@
 {
   "name": "onedionys-formatted-input-fields",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Formatted Input Fields) - Components that allow the use of input with specific formats such as date, currency, or phone number with automatic validation.",
   "main": "src/formattedInputFields.js",
   "directories": {
